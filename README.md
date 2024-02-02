@@ -1,11 +1,11 @@
 ## Hi, Im bluefield
 **🇪🇸 Spanish developer.**
 
-- 📂 I'm a Web Developer who is currently learning low-level programming.
-- 🧲 Passionate about torrent.
-- 🔐 Encryption and privacy nerd.
+- 📂 Web Dev, learning low level.
+- 🧲 Passionate about torrent & decentralized networks.
+- 🔐 Encryption, Hashing, math thingamob.
 - 🎻 Addicted to alternative music nobody ever listens.
 
-❓ Currently **not** working on anything.
+❓ Currently **studying my way into the defense sector**
 
-![Drag Racing](https://68.media.tumblr.com/bae6877a04f06d34ef9464806c4a7296/tumblr_obwoxdilyJ1u349h5o1_500.gif)
+![Chen Sunglasses](https://68.media.tumblr.com/bae6877a04f06d34ef9464806c4a7296/tumblr_obwoxdilyJ1u349h5o1_500.gif)
