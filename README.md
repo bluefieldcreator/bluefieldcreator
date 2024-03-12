@@ -1,11 +1,26 @@
 ## Hi, Im bluefield
-**🇪🇸 Spanish developer.**
+**🇪🇸 Spanish web developer and encryption nerd. (Fan of tanks too)**
 
-- 📂 Web Dev, learning low level.
+### About me!
+- 📂 Web Dev, learning C, C# and Go.
 - 🧲 Passionate about torrent & decentralized networks.
 - 🔐 Encryption, Hashing, math thingamob.
 - 🎻 Addicted to alternative music nobody ever listens.
 
-❓ Currently **studying my way into the defense sector**
+❓ Currently **studying electronics**
 
-![Chen Sunglasses](https://68.media.tumblr.com/bae6877a04f06d34ef9464806c4a7296/tumblr_obwoxdilyJ1u349h5o1_500.gif)
+### Projects
+
+* **Imp** 🏰 (Sandbox Gaming Platform & Social Network)
+* **Bakemono** 🐲 (Discord Bot for Imp)
+* **3rd Shock Scripts** ⚡ (Arma 3 SQF Scripts)
+* **Pytronics** 🐍 (Python Calculators for Electronics)
+
+**Journey Thus Far 🌟:**
+
+* Polytoria (2 years) - TS Web Dev & Discord Bot Maintainer
+* Vistora (2 years) - PHP Web Dev
+* Anomia (1 year) - TS Web Dev
+* Implorium (6 months) - Lead Web Dev & Discord Bot Maintainer (Current)
+
+![Tank!](https://safebooru.org//samples/1603/sample_a85480e9655f9ff75b2f8d0623e3358ccee42942.jpg?1679107)
